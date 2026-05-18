@@ -1,0 +1,35 @@
+ht20ml{
+ font-size: 20px;
+}
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+
+body{
+  background-color: rgb(247, 0, 0);
+    color: azure;
+    line-height: normal;     
+    font-family: "Arial Nova", Helvetica, Arial, sans-serif;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 14px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
